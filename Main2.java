@@ -8,6 +8,7 @@ public class Main2 {
 		for(int i = 0; i < 15; i++) {
 			System.out.print(GF(3,4,i) + " ");
 		}
+		//
 	}
 	
 	public static int GF(int a, int b, int n) {
